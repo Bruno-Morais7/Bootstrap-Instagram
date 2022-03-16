@@ -1,0 +1,7 @@
+.nav-link{color: rgb(127, 131, 131);}
+.nav-link:hover{color:black;}
+.nav-pills .nav-link.active {background-color: rgb(182, 182, 182);}
+.img-responsive {
+    object-fit: cover;
+    object-position: center;
+  }
